@@ -1,6 +1,6 @@
 # BlackJack-assembly
 
-**BlackJack-assembly is the BlackJack game implemented by only using Assembly language.
+**BlackJack-assembly is the BlackJack game implemented by only using Assembly language.**
 
 It runs in the command window.
 
@@ -15,3 +15,4 @@ It runs in the command window.
 ## Who wins?
 
 The one with the highest score that's lower or equal to 21 is the winner. If any of the sides draws cards and the score exceeds 21, the other side wins and the BUST message is displayed, along with the side that went bust.
+:shipit:
