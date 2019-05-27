@@ -15,10 +15,8 @@ It runs in the **_command window_**.
 ## Who wins?
 
 The one with the highest score that's lower or equal to 21 is the winner. If any of the sides draws cards and the score exceeds 21, the other side wins and the BUST message is displayed, along with the side that went bust.
-:shipit:
 
-
-## Status / to-do list
+## Status / To-do list
 
 - [x] Randomly shuffle deck
 - [x] Implement function to generate card label based on number in card list
