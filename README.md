@@ -1,6 +1,6 @@
-# BlackJack-assembly
+# Blackjack
 
-**BlackJack-assembly is the BlackJack game implemented by only using Assembly language.**
+This game was implemented solely by using the **_ASSEMBLY_** language.
 
 It runs in the **_command window_**.
 
@@ -16,3 +16,13 @@ It runs in the **_command window_**.
 
 The one with the highest score that's lower or equal to 21 is the winner. If any of the sides draws cards and the score exceeds 21, the other side wins and the BUST message is displayed, along with the side that went bust.
 :shipit:
+
+
+## Status / to-do list
+
+- [x] Randomly shuffle deck
+- [x] Implement function to generate card label based on number in card list
+- [x] Calculate score correctly
+- [x] Implement Player logic
+- [x] Implement Dealer logic
+- [ ] Implement betting system
