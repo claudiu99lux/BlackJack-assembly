@@ -2,7 +2,7 @@
 
 **BlackJack-assembly is the BlackJack game implemented by only using Assembly language.**
 
-It runs in the command window.
+**It runs in the _command window_**.
 
 ## How does it work?
 
